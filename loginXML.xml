@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wedsmemologin>
+	<details>
+		<name>Prashant</name>
+		<password>testing</password>
+		<xmlName>testingpass</xmlName>
+	</details>
+	<details>
+		<name>Prashant1</name>
+		<password>testing1</password>
+		<xmlName>testingpass1</xmlName>
+	</details>
+</wedsmemologin>
